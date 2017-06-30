@@ -1,3 +1,32 @@
+.top {
+  margin-left: 75%;
+}
+.top p, a {
+  margin-left: 5px;
+}
 img {
-  width: 160%;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.container {
+
+}
+.col-lg-2 {
+  float: left;
+  border: none;
+  padding: 35px;
+  background-color: #F3F3F3;
+  height: 100vh;
+}
+.col-lg-2 h2 {
+  font-size: 20px;
+}
+.jumbotron {
+  display: block;
+}
+.jumbotron h1{
+  font-size: 25px;
+}
+.jumbotron p {
+  font-size: 15px
 }
